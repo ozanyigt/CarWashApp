@@ -1,0 +1,19 @@
+# React Native
+node_modules/
+android/.gradle/
+android/.idea/
+*.keystore
+.env
+*.log
+
+# VS / .NET
+bin/
+obj/
+*.user
+*.vs
+*.db
+*.sqlite
+appsettings.*.json
+
+# MacOS
+.DS_Store
